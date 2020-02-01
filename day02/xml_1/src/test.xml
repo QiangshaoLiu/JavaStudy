@@ -4,3 +4,4 @@
 	<name>QiangshaoLiu</name>
 	<age>26</age>
 </person>
+<!-- 方式1，使用dtd文件来对配置文件进行约束 -->

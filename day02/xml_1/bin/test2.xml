@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE person [
+	<!ELEMENT person (name,age)>
+	<!ELEMENT name (#PCDATA)>
+	<!ELEMENT age (#PCDATA)>
+]
+>
+<person>
+	<name>QiangshaoLiu</name>
+	<age>26</age>
+</person>
+<!-- 方式2 内部约束方式 -->
